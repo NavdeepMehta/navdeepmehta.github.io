@@ -74,7 +74,7 @@ body {
   justify-content: flex-end;
 }
 .navbar-brand {
-  color: teal;
+  color: orange;
   text-transform: uppercase;
 }
 .navbar-brand:hover {
@@ -95,7 +95,7 @@ body {
   text-align: center;
   font-family: "Acme", cursive;
   font-size: 17px;
-  color: teal;
+  color: white;
   margin-right: 1em !important;
   cursor: pointer;
   text-transform: uppercase;
@@ -597,12 +597,12 @@ canvas {
   font-family: 'Bebas Neue', cursive;
 }
 .services-icon i {
-  font-size: 35px;
+  font-size: 25px;
   color: #ffffff;
 }
 
 .services-content h3 {
-  line-height: 1.9;
+  line-height: 1;
   text-transform: uppercase;
 }
 
